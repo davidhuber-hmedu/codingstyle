@@ -58,4 +58,8 @@ public final class StringContainsUtils {
     private StringContainsUtils() {
         // prevents instantiation
     }
+
+    public void containsAllIgnoreCase() {
+        // code
+    }
 }
